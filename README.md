@@ -4,7 +4,6 @@ Security Researcher.
 
 My public repositories consist of templates, tooling, and code collections that support both offensive security development and systems engineering. :contentReference[oaicite:0]{index=0}
 
----
 
 ## Featured Projects
 
@@ -16,7 +15,6 @@ My public repositories consist of templates, tooling, and code collections that 
 
 Other interesting stuff includes machine-learning-enabled shellcode loaders with identity verification and third-party agent extensions for C2 frameworks. :contentReference[oaicite:6]{index=6}
 
----
 
 ## Links
 
@@ -24,4 +22,3 @@ Other interesting stuff includes machine-learning-enabled shellcode loaders with
 - Twitter (X): https://x.com/0xtriboulet — Commentary and updates. :contentReference[oaicite:8]{index=8}  
 - GitHub: https://github.com/0xTriboulet — All repositories and contributions. :contentReference[oaicite:9]{index=9}  
 
----
